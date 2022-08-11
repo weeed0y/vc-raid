@@ -54,7 +54,8 @@
         "url": "https://github.com/weeed0y/heroku-buildpack-jq"
       },{
         "url": "https://railway.app/new/template/M2hIOH?referralCode=WczP0f"
-         [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/M2hIOH?referralCode=WczP0f)
+         [![Deploy/Railway] 
+          [![Deploy on Railway]("https://railway.app/button.svg)](https://railway.app/new/template/M2hIOH?referralCode=WczP0f)
           
           "heroku/python"
       }]
