@@ -51,8 +51,11 @@
       },{
         "url": "https://github.com/heroku/heroku-buildpack-apt.git"
       },{
-        "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+        "url": "https://github.com/weeed0y/heroku-buildpack-jq"
       },{
-        "url": "heroku/python"
+        "url": "https://railway.app/new/template/M2hIOH?referralCode=WczP0f"
+         [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/M2hIOH?referralCode=WczP0f)
+          
+          "heroku/python"
       }]
 }
